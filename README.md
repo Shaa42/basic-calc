@@ -23,3 +23,6 @@ cd basic-calc
 ```bash
 firefox index.html
 ```
+
+## Note
+calc is short for calculator btw
