@@ -10,8 +10,7 @@ Ce projet est une simple calculatrice permettant de faire des opérations arithm
 ## Installation
 1. Clonez le dépôt :
 ```bash
-git clone
-https://github.com/Shaa42/basic-calc.git
+git clone https://github.com/Shaa42/basic-calc.git
 ```
 
 2. Accédez au répertoire du projet :
